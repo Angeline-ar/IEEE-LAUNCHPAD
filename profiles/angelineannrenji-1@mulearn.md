@@ -1,4 +1,4 @@
-# Full Name 
+# Angeline Ann Renji
 
 ### About Me
 
@@ -45,7 +45,9 @@ I haven't built software tools that have gained widespread use—yet.
 #### Competitive Website Profiles:
 
 Linkedin: https://www.linkedin.com/in/angeline-renji-1b0971266/
+
 Github: https://github.com/Angeline-ar
+
 Hackerrank: https://www.hackerrank.com/profile/angeline_ar142
 
 
